@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814824147678",
+    "project_id": "kubersatta-fca7c",
+    "storage_bucket": "kubersatta-fca7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814824147678:android:9f804dc490c4f4a9f6904f",
+        "android_client_info": {
+          "package_name": "com.brixham.kuber_starline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814824147678-uktigqbredkfe594keta0fvqg9o5ssh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXxeXonctiyqp_ipGmALovTcgNR8CYyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814824147678-uktigqbredkfe594keta0fvqg9o5ssh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

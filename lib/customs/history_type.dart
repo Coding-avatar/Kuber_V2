@@ -1,0 +1,1 @@
+enum HistoryType { Playing, Winning }
